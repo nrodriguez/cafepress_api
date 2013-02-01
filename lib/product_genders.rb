@@ -214,6 +214,7 @@ module ProductGenders
     'iPad Case' => UNISEX, '459' => UNISEX,
     'iPhone 3G Hard Case' => UNISEX, '441' => UNISEX,
     'iPhone 4 Clear Case' => UNISEX, '444' => UNISEX,
-    'iPhone 4 Slider Case' => UNISEX, '443' => UNISEX
+    'iPhone 4 Slider Case' => UNISEX, '443' => UNISEX,
+    'Flask' => UNISEX, '720' => UNISEX
   }
 end
